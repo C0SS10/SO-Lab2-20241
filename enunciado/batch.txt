@@ -1,0 +1,3 @@
+ls
+echo "Hola desde batch"
+exit
